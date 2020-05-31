@@ -2,7 +2,7 @@
 
 Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las clases de matemáticas que imparto, sobre mi perfil profesional y mis intereses relacionados con las matemáticas. 
 
-Para acceder a la sección de archivos educativos pulsa aquí. LOL cómo hago un subdominio de esta mierda sin tener que recurrir a frikis gamers que usan la terminal.
+Para acceder a la sección de archivos educativos pulsa [aquí](Archivos.html). LOL cómo hago un subdominio de esta mierda sin tener que recurrir a frikis gamers que usan la terminal.
 
 [editor on GitHub](https://github.com/MathEthicist/MathEthicist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenid@, 
 
-You can use the [editor on GitHub](https://github.com/MathEthicist/MathEthicist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las clases de matemáticas que imparto, sobre mi perfil profesional y mis intereses relacionados con las matemáticas. 
+[editor on GitHub](https://github.com/MathEthicist/MathEthicist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

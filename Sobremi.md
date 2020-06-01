@@ -19,7 +19,7 @@ por la Universidad Complutense de Madrid (2018-2019)
 
 ```markdown
 # Asistencia a las JAE (2018 y 2019): 
-por el ICMAT en los siguientes cursos:
+por el ICMAT en los siguientes cursos: 
 
 # Asistencia al SMI (Scuola Matematica Interuniversitaria, 2019)
 por la Università degli Studi di Perugia.

@@ -9,7 +9,9 @@ Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las c
 ## No sé hacer un índice decente, estoy aprendiendo, pero mira [esto](https://www.youtube.com/watch?v=4GicJVYQvcg&list=LLecsc4UOOJfb3kJ5_0Mxe2A&index=39&t=0s).
 
 
-
+**Hola**, _Hola_ y `Hola`
+1. Hola.
+2. Adios.
 
 
 ### Markdown

@@ -2,11 +2,15 @@
 
 Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las clases de matemáticas que imparto, sobre mi perfil profesional y mis intereses relacionados con las matemáticas. 
 
-Para acceder a la sección de archivos educativos pulsa [aquí](Archivos.html). LOL cómo hago un subdominio de esta mierda sin tener que recurrir a frikis gamers que usan la terminal.
+# Para acceder a la sección de archivos educativos pulsa [aquí](Archivos.html). 
 
-[editor on GitHub](https://github.com/MathEthicist/MathEthicist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Para saber sobre mi perfil profesional entonces [aquí](Sobremi.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# No sé hacer un índice decente, estoy aprnediendo, pero mira [esto](https://www.youtube.com/watch?v=4GicJVYQvcg&list=LLecsc4UOOJfb3kJ5_0Mxe2A&index=39&t=0s).
+
+
+
+
 
 ### Markdown
 
@@ -30,12 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contacto
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MathEthicist/MathEthicist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+dmorencas@gmail.com

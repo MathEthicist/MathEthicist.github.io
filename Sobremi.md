@@ -79,4 +79,9 @@ medio de programación en Python y básico en Haskell.
 # Carnet de conducir tipo B.
 ```
 
+En cuanto a intereses me inclino mucho por la investigación matemática. A pesar de no haber podido realizar un doctorado por motivos económicos me apasionan las matemáticas que se podrían considerar de nivel avanzado como por ejemplo la geometría algebraica, la teoría de categorías y la topología algebraica. Para que no parezca que me estoy tirando el triple me gustaría concretar más y explicar por qué en particular estas áreas e intentaré que no quede presuntuoso. El estudio por el álgebra y en concreto de las estructuras algebraicas siempre me ha parecido el más bonito por su caracter de abstracción y estructural. Las estructuras algebraicas nos permiten entender bien como un conjunto de elementos se relaciónan a través de unas operaciones definidas (números naturales y la suma, por ejemplo). Estas estructuras, que bien pueden ser grupos, anillos o módulos, también se relacionan muy fuertemente entre sí. Esto lo podemos aplicar a la geometría de muchas formas y es donde empieza lo interesante. Dependiendo de la geometría que se quiera estudiar podemos considerar geometría algebraica, donde se consideran los ceros de polinomios, o topología algebraica, con espacios topológicos (el contexto diferencial no me apasiona pero es históricamente el más esclarecedor a la hora de estudiar los métodos geométrico-algebraicos). De forma general lo que más me ha gustado de estas dos áreas puede resumirse en la teoría de esquemas de Grothendieck y las teorías de homotopía, homología y cohomología. 
+
+En lo respectivo a la teoría de categorías, en la cual aún estoy empezando, me interesan los topoi, su relación con la lógica y otras fundaciones de las matemáticas que se desprenden de estos.
+
+Intereses o hobbies ajenos a las matemáticas son tocar la guitarra, la horticultura (tengo un pequeño huerto, pero me gustaría ampliarlo) y William Faulkner. 
 

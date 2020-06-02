@@ -1,4 +1,4 @@
-[**Inicio**](index.html) ------------------    [**Archivos**](Archivos.html) ------------------    [**Sobre mí**](Sobremi.html)
+[**Inicio**](index.html) (~C ^w^)~C    [**Archivos**](Archivos.html) ¯\_( ͡° ͜ʖ ͡°)_/¯    [**Sobre mí**](Sobremi.html)
 
 ## Inicio 
 

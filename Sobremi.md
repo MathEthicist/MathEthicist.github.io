@@ -1,3 +1,6 @@
+[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html)
+
+# Sobre mí
 Me llamo Daniel y soy profesor de matemáticas de secundaria, FP y bachiller. Aquí dejo un breve resumen de mi currículum junto con una pequeña descripción de intereses y aficiones.
 
 ### Certificados Académicos Principales:

@@ -2,6 +2,10 @@
 
 Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las clases de matemáticas que imparto, sobre mi perfil profesional y mis intereses relacionados con las matemáticas. 
 
+```markdown
+[Inicio](index.html) [Archivos](Archivos.html) [Sobre mí](Sobremi.html)
+```
+
 ## Para acceder a la sección de archivos educativos pulsa [aquí](Archivos.html). 
 
 ## Para saber sobre mi perfil profesional entonces [aquí](Sobremi.html).

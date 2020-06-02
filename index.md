@@ -1,6 +1,6 @@
-[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html)
+[**Inicio**](index.html) ~~~~~~~~~~    [**Archivos**](Archivos.html) ~~~~~~~~~~    [**Sobre mí**](Sobremi.html)
 
-## Bienvenid@, 
+## Inicio 
 
 Mi nombre es Daniel y esta web tiene un fin didáctico e informativo sobre las clases de matemáticas que imparto, sobre mi perfil profesional y mis intereses relacionados con las matemáticas. 
 

@@ -1,3 +1,11 @@
-## Bienvenid@ a los Archivos.
+# Bienvenid@ a los Archivos.
 
-Categorías abelianas [pdf](Abelian categories.pdf)
+Aquí encontrarás una serie de archivos relacionados con las clases que imparto o con otros temas distintos. Según sea, los archivos que le interesan a mi alumnado están indexados por curso y tema. Espero por mi parte no ser un vago y actualizar esto cuando debiera.
+
+## Clases impartidas en el Instituto/Colegio "".
+### 4ºESO A
+
+## Matemáticas avanzadas para pasar el rato
+- Categorías abelianas [pdf](Abelian categories.pdf)
+
+## Cosas que subo porque me da la gana.

@@ -2,7 +2,7 @@
 
 ## Home
 
-My name is Daniel and this website has only a didactic and informative purpose, in particular, about the math classes I teach at the high school, my professional profile and my interests related to math. 
+My name is Daniel and this website has only a didactic and informative purpose, in particular, about the maths classes I teach at the high school, my professional profile and my interests related to math. 
 
 In the top links you can access all the information you are looking for. 
 

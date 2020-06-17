@@ -1,4 +1,4 @@
-[**Home**](ENGindex.html) (~C ^w^)~C    [**Archives**](ENGArchivos.html) (~C ^w^)~C    [**About me**](ENGSobremi.html) (~C ^w^)~C [**ESP**](index.html)
+[**Home**](ENGindex.html)  - o -    [**Archives**](ENGArchivos.html)  - o -     [**About me**](ENGSobremi.html)  - o -   [**ESP**](index.html)
 
 ## Home
 

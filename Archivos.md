@@ -1,4 +1,4 @@
-[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENGArchivos.html) - o -    [**中文**](CHindex.html) 
+[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENG/ENGArchivos.html) - o -    [**中文**](CH/CHindex.html) 
 
 
 # Bienvenid@ a los Archivos.
@@ -13,7 +13,7 @@ Otro enlace esencial, sobre todo para el alumnado de 2º de Bachillerato, es la 
 ### 4ºESO A
 
 ## Matemáticas avanzadas para pasar el rato.
-- Categorías abelianas [pdf](Abelian categories.pdf)
+- Categorías abelianas [pdf](MetaArchivos/Abelian categories.pdf)
 
 ## Cosas que subo porque me da la gana.
 

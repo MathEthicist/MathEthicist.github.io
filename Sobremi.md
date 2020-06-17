@@ -1,4 +1,4 @@
-[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENGSobremi.html) - o -    [**中文**](CHindex.html) 
+[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENG/ENGSobremi.html) - o -    [**中文**](CH/CHindex.html) 
 
 
 # Sobre mí

@@ -11,10 +11,10 @@ Otro enlace esencial, sobre todo para el alumnado de 2º de Bachillerato, es la 
 ## Clases impartidas en el Instituto/Colegio "".
 ### 4ºESO A
 
-## Matemáticas avanzadas para pasar el rato
+## Matemáticas avanzadas para pasar el rato.
 - Categorías abelianas [pdf](Abelian categories.pdf)
 
 ## Cosas que subo porque me da la gana.
 
-## Links a Otras Webs interesantes
-- [Teoría de Categorías Aplicada a la Música.](https://alpof.wordpress.com) 
+## Links a otras webs interesantes.
+- [Teoría de categorías aplicada a la música.](https://alpof.wordpress.com) 

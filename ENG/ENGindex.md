@@ -10,6 +10,7 @@ In the top links you can access all the information you are looking for.
 While I try to learn HTML, and that is far from now, this was the easiest option for creating a website. 
 My methods are old but effective, complaints [here](https://www.youtube.com/watch?v=4GicJVYQvcg&list=LLecsc4UOOJfb3kJ5_0Mxe2A&index=39&t=0s).
 
+![YO](/MetaArchivos/Sad_Milhouse.png)
 
 ### Contact:
 

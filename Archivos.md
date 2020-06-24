@@ -1,4 +1,4 @@
-[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENG/ENGArchivos.html) - o -    [**中文**](CH/CHindex.html) 
+[**Inicio**](index.html) - o -    [**Archivos**](Archivos.html)  - o -   [**Sobre mí**](Sobremi.html) - o -   [**ENG**](ENG/ENGArchivos.html) - o -    [**中文**](CH/CHArchivos.html) 
 
 
 # Bienvenid@ a los Archivos.

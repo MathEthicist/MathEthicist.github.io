@@ -1,4 +1,4 @@
-[**开始**](CHindex.html)  - o -    [**记录**](CHArchivos.html)  - o -      [**关于我**](/Sobremi.html)  - o -    [**ESP**](/index.html)   - o -    [**ENG**](/ENG/ENGindex.html) 
+[**开始**](CHindex.html)  - o -    [**记录**](CHArchivos.html)  - o -      [**关于我**](/Sobremi.html)  - o -    [**ESP**](/Archivos.html)   - o -    [**ENG**](/ENG/ENGArchivos.html) 
 
 ## 记录。
 

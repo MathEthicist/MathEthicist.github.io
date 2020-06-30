@@ -17,5 +17,5 @@ Another essential link, in particular for the students of 2nd of Bachillerato, i
 
 ## Things I upload because I want to.
 
-## Links Other Interesting Websites.
+## Links to Other Interesting Websites.
 - [Category Theory Applied to Music.](https://alpof.wordpress.com) 

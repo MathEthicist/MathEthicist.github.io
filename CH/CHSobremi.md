@@ -57,13 +57,11 @@ Universidad Internacional de la Rioja (2019-2020)。
 数学的中学老师  (老师的硕士,在高中时 IES Villa de Vallecas, 九星期)。
 
 # 课外实践
-como profesor de apoyo en la asignatura de Matemáticas Básicas
-(1º del grado de Matemáticas en la UCM, 2019)。
+支持老师, 基本数学的学科
+(第一年的数学专业, UCM, 2019)。
 
-# Actividades de Voluntariado
-Experiencia en organización y cooperación con grandes grupos de personas
-en el Banco de Alimentos de Madrid y la Asociación de Acción Social 
-Libélula de Fuenlabrada。
+# 义工
+马德里的食品银行和另一个地方协会。
 
 
 ```
@@ -72,17 +70,18 @@ Libélula de Fuenlabrada。
 
 ```markdown
 # 语言: 
-西班牙语 (母语), 英语 (C1, Aptis Exam), 法语 (básico), 还我在学习中文。
+西班牙语 (母语), 英语 (C1, Aptis Exam), 法语 (初学者), 还我在学习中文。
 
-# Informática: 
-manejo de programas de Microsoft OfficeTM, Open Office, MatLab, Lateχ, 
-nivel medio de programación en Python y básico en Haskell。
+# 计算: 
+Microsoft OfficeTM, Open Office, MatLab, Lateχ。
+中级编程: Python 
+初学者: Haskell。
 
-# Carnet de conducir tipo B。
+# 驾驶执照。
 ```
 
 En cuanto a intereses me inclino bastante por la investigación matemática. A pesar de no haber podido realizar un doctorado, por motivos económicos, me gustan mucho las matemáticas que se podrían considerar de un nivel avanzado como la geometría algebraica, la teoría de categorías y la topología algebraica. El estudio por el álgebra y en concreto de las estructuras algebraicas siempre me ha parecido el más bonito por su caracter de abstracción y estructural. Las estructuras algebraicas nos permiten entender bien cómo un conjunto de elementos se relaciónan a través de unas operaciones definidas (números naturales y la suma, por ejemplo). Estas estructuras, que bien pueden ser grupos, anillos o módulos, también se relacionan muy fuertemente entre sí en muchos contextos. En concreto en el de la geometría, y es donde empieza lo interesante. Dependiendo de la geometría que se quiera estudiar podemos considerar geometría algebraica, donde se consideran los ceros de polinomios, o topología algebraica, con espacios topológicos (el contexto diferencial no me apasiona pero es históricamente el más esclarecedor a la hora de estudiar los métodos geométrico-algebraicos). De forma general lo que más me ha gustado de estas dos áreas puede resumirse en la teoría de esquemas de Grothendieck y las teorías de homotopía, homología y cohomología. En lo respectivo a la teoría de categorías, en la cual aún estoy empezando, me interesan los topoi, su relación con la lógica y otras fundaciones de las matemáticas que se desprenden de estos.
 
-Debido a esto, me he propuesto realizar [Archivos](Archivos.html) que puedan resultar de ayuda para un estudio de nociones matemáticas útiles que realmente sirvan a intereses matemáticos y lógicos y no a un currículum anclado en el año 1850. Así pues en lo sucesivo, se incluirán textos sobre grupos, anillos e incluso categorías a distintos niveles de educación secundaria y bachillerato. Además, se intentará incluir revisiones a contenidos estándar del currículum como pueden ser las ecuaciones o la probabilidad.
+Debido a esto, me he propuesto realizar [Archivos](CHArchivos.html) que puedan resultar de ayuda para un estudio de nociones matemáticas útiles que realmente sirvan a intereses matemáticos y lógicos y no a un currículum anclado en el año 1850. Así pues en lo sucesivo, se incluirán textos sobre grupos, anillos e incluso categorías a distintos niveles de educación secundaria y bachillerato. Además, se intentará incluir revisiones a contenidos estándar del currículum como pueden ser las ecuaciones o la probabilidad.
 
 Intereses o hobbies ajenos a las matemáticas son tocar la guitarra, la horticultura (tengo un pequeño huerto, pero me gustaría ampliarlo) y William Faulkner. 

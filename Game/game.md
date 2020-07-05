@@ -8,5 +8,4 @@ Must choose a character to start:
 Abed    
 Bobobo    
 Arthur       
-Scott 
-Emmy   
+

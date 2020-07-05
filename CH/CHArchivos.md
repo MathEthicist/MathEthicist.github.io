@@ -1,9 +1,9 @@
-[**开始**](CHindex.html)  - o -    [**记录**](CHArchivos.html)  - o -      [**关于我**](CHSobremi.html)  - o -    [**ESP**](/Archivos.html)   - o -    [**ENG**](/ENG/ENGArchivos.html) 
+[**开始**](CHindex.html)  - o -    [**单据**](CHArchivos.html)  - o -      [**关于我**](CHSobremi.html)  - o -    [**ESP**](/Archivos.html)   - o -    [**ENG**](/ENG/ENGArchivos.html) 
 
-## 记录。
+## 单据。
 
 
-我的记录在这儿。中学的记录 和 学院的记录， 都是数学课文。
+我的单据在这儿。中学的单据 和 学院的单据， 都是数学课文。
 
 [Apuntes de Marea Verde](http://www.apuntesmareaverde.org.es) 是很好和自由数学书。也有很多专业。
 

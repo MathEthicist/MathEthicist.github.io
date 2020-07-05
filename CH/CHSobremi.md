@@ -2,12 +2,12 @@
 
 
 # 关于我
-我的名字叫 Daniel。  是中学老师，我的专业是数学。这儿我写狠小关于我的课文。
+我的名字叫 Daniel。  是中学老师，我的专业是数学。这儿我写关于我的课文。
 
 ### 学历证书:
 
 ```markdown
-# 数学专业 
+# 数学学士学位 
 Universidad Complutense de Madrid (2013-2017)
 
 # 高等数学的硕士
@@ -27,7 +27,7 @@ Universidad Complutense de Madrid (2018-2019)
 
 # 出勤 JAE (2018 和 2019): 
 ICMAT 学院 
-- 几何理论的群。
+- 群的几何理论。
 - 神经科学概论。  
 - 不等式跟经典算子和重量。 
 - 拓扑结构的复流形。
@@ -54,10 +54,10 @@ Universidad Internacional de la Rioja (2019-2020)。
 2014-现在。
 
 # 专业实践
-数学的中学老师  (老师的硕士,在高中时 IES Villa de Vallecas, 九星期)。
+数学的中学老师  (在高中时 IES Villa de Vallecas, 九星期)。
 
 # 课外实践
-支持老师, 基本数学的学科
+支持老师, "基本数学"的学科
 (第一年的数学专业, UCM, 2019)。
 
 # 义工

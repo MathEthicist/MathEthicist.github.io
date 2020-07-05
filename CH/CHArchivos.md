@@ -9,13 +9,13 @@
 
 [Musat](http://musat.net) 太多数学练习。
 
-## Clases impartidas en el Instituto/Colegio "".
+## 中学单据 (2020-2021)。
 ### 4ºESO A
 
-## Matemáticas avanzadas para pasar el rato.
-- Categorías abelianas [pdf](MetaArchivos/Abelian categories.pdf)
+## Matemáticas avanzadas。
+- 阿贝尔范畴 (在西班牙语中) [pdf](MetaArchivos/Abelian categories.pdf)
 
-## Cosas que subo porque me da la gana.
+## 其他事情。
 
-## Links a otras webs interesantes.
-- [Teoría de categorías aplicada a la música.](https://alpof.wordpress.com) 
+## 外部链接。
+- [范畴论和音乐。](https://alpof.wordpress.com) 

@@ -19,7 +19,7 @@
 
 ## 外部链接。
 - [范畴论和音乐。](https://alpof.wordpress.com) 
-- [Álgebra lineal con graficas y diagramas, además tiene una receta para hacer crema de mascarpone.](https://graphicallinearalgebra.net)
-- [Libgen: biblioteca muy legal online para descargar ciencia.](http://93.174.95.27)
-- [Scihub: sistema superlegal de conseguir artículos científicos de revistas o libros.](https://sci-hub.st) Y si no funciona, mira [aquí enlaces actualizados.](https://sci-hub.now.sh)
-- [Lista repositorios actualizados para libgen y scihub](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down). Si no, otra estrategia medio decente es ir a la wikipedia de ambos sitios ya que solían llevar un registro de los últimos links. Sin embargo, como algunos proveedores de internet nacionales (España) bloquean estas páginas quizás otra buena idea puede ser utilizar un VPN. Ya más no se me ocurre.
+- [线性代数跟图表, 还有一个 "crema di mascarpone" 的食谱。](https://graphicallinearalgebra.net)
+- [Libgen: 法律网上图书馆](http://93.174.95.27)
+- [Scihub: 这法律网上可以给你很多科学文章和书。](https://sci-hub.st) 还你可以看 [这儿更新的连接。](https://sci-hub.now.sh)
+- [链接的 libgen 和 scihub 链接](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down)。 你也可以看 Wikipedia, 这有 libgen 和 scihub 链接。 可是西班牙和中国不能看一些链接, 你可以用以一个 VPN。 
